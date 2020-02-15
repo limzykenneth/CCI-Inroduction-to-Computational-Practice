@@ -35,7 +35,7 @@ The basic building blocks of websites are no doubt HTML, CSS and, Javascript. In
 
 ## Week 4
 ### Enriching the web experience
-With the knowledge of writing HTML markup, we can use CSS to take our plain HTML pages further. With CSS, we can use Javascript to create in browser interactions. We will see how modern web pages are made and practice some of it ourselves using CSS and Javascript through p5.js.
+With the knowledge of writing HTML markup, we can use CSS to take our plain HTML pages further. Along with CSS, we can also use Javascript to create in browser interactions. We will see how modern web pages are made and practice some of it ourselves using CSS and Javascript through p5.js.
 
 ## Week 5
 ### Setting up an environment and node.js
@@ -43,7 +43,7 @@ So far we have been using the p5.js web editor exclusively to create our web pag
 
 ## Week 6
 ### More node.js
-We had an overview as well as some hands on of node.js so far, this week we shall look closer at node.js and create our first web server.
+We had an overview as well as some hands on of node.js so far, this week we shall look closer at node.js and create our first web server. We will also get an understanding of how the server client structure works on the web.
 
 ## Week 7
 ### Libraries and Frameworks
@@ -51,23 +51,25 @@ Almost no one writes large software applications from scratch, almost no one sho
 
 ## Week 8
 ### A peek inside p5.js
-We have used p5.js quite extensively throughout the unit, but what goes on underneath? What can we learn from the source code of p5.js that can be applied to our own practice.
+We have used p5.js quite extensively throughout the unit, but what goes on underneath? What can we learn from the source code of p5.js that can be applied to our own practice?
 
 ## Week 9
-###
+### Setting up a frontend project
+Handlebars, LESS, Parcel, etc.
 
+This session should give you the basics to start a medium to large size web development project. You can use it as a starting point for your final project.
 
 ## Week 10
-###
-
+### Final Project Proposal
+You are to prepare a 10 minute presentation about a proposed website that you will make as a final outcome.
 
 ## Week 11
-###
-
+### Final Project Interim 1
+We will run an interim crit to look at your progress so far and provide suggestions on your designs. You will also be working in class towards your final outcome.
 
 ## Week 12
-###
-
+### Final Project Interim 2
+We will run an interim crit to look at your progress so far and provide suggestions on the techincalities of your project. You will also be working in class towards your final outcome.
 
 ## Week 13
-###
+### Final Project Crit
