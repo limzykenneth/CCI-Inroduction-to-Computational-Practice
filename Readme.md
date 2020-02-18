@@ -51,7 +51,7 @@ Almost no one writes large software applications from scratch, almost no one sho
 
 ## Week 8
 ### A peek inside p5.js
-We have used p5.js quite extensively throughout the unit, but what goes on underneath? What can we learn from the source code of p5.js that can be applied to our own practice?
+We have used p5.js quite extensively throughout the unit, but what goes on underneath? What can we learn from the source code of p5.js that can be applied to our own practice? We will also begin looking at git and github.
 
 ## Week 9
 ### Setting up a frontend project
