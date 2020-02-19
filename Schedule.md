@@ -55,6 +55,9 @@
 
 ## Week 10 (14 May 2020)
 - 09:30 - Project proposal
+- 10:30 - Drawing an interface
+- 11:30 - Physical prototyping workshop
+- 13:15 - Q&A time
 
 ## Week 11 (21 May 2020)
 - 09:30 - Interim crit 1
